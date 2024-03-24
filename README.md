@@ -1,4 +1,7 @@
-### Hi there 👋
+# 👀
+I'm Banana. I'm an aviation nerd who writes bots and other random projects.
+
+That's all, really
 
 <!--
 **439bananas/439bananas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
