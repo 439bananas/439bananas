@@ -1,7 +1,10 @@
 # 👀
-I'm Banana. I'm an aviation nerd who writes bots and other random projects.
+I'm Banana (he/him). I'm an aviation nerd who writes bots and other random projects.
 
-That's all, really
+That's all, really.
+
+# Contact
+[Email](mailto:me@439bananas.com) | [Discord](https://discord.com/users/224606298673512458)
 
 <!--
 **439bananas/439bananas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
